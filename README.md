@@ -1,4 +1,4 @@
 # demo
 This is my Git repo
 <br>
-Author-Rohan Vishwakarma
+Author-Rohan VK
